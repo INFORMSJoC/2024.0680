@@ -6,7 +6,7 @@ from pandas import read_csv
 
 loN = [32, 64, 96]
 dict_alpha_index = {32:range(5), 64:range(5), 96:range(1,4)}
-timelimit = 1
+timelimit = 3600
 
 for N in loN:
     for i in dict_alpha_index[N]:
