@@ -1,0 +1,9 @@
+Name,P,B,C1,C2,Objective without constant,Objective,Gap,Time
+../instances/64_4/ad_grb_00000.log.npz,0,0,0,0,0,0,inf,3600.4591319561
+../instances/64_4/ad_grb_00000.log.npz,1,0,0,0,0,0,inf,3600.5657992363
+../instances/64_4/ad_grb_00000.log.npz,0,1,0,0,0,0,inf,3600.54826402664
+../instances/64_4/ad_grb_00000.log.npz,0,0,1,1,0,0,inf,3602.37055540085
+../instances/64_4/ad_grb_00000.log.npz,1,1,0,0,0,0,inf,3600.5411233902
+../instances/64_4/ad_grb_00000.log.npz,1,0,1,1,0,0,inf,3601.04467797279
+../instances/64_4/ad_grb_00000.log.npz,0,1,1,1,0,0,inf,3601.14818143845
+../instances/64_4/ad_grb_00000.log.npz,1,1,1,1,0,0,inf,3601.14853286743
